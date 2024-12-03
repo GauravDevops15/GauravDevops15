@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Tanwar
 - 👀 I’m interested in Devops Eng
 - 🌱 I’m currently learning Docker and Kubernetes
-- 💞️ I’m looking to collaborate on Devopstechnologies
+- 💞️ I’m looking to collaborate on Devops technologies
 - 📫 you can reachout to me on email and LinkedIn
 
 <!---
