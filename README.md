@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav Tanwar
-- 👀 Currently DevOps Engineer @ NCR Voyix
+- 👀 Currently working as DevOps Engineer @ NCR Voyix
 - 🌱 I’m currently learning Docker and Kubernetes
 - 💞️ I’m looking to collaborate on Devops technologies
 - 📫 you can reachout to me on email and LinkedIn
